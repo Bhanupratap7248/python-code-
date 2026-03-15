@@ -96,7 +96,6 @@
 # for i in range(1,num+1):
 #     factorial = factorial*i
 # print("factorial of", num, "is",factorial)
-
+ #slicing
 str ="bhanu pratap"
-char = [5]
-print(char)
+print(str[0:4])
